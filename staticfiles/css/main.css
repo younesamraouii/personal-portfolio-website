@@ -20,10 +20,16 @@ ul{
 
 .social-links ul, li{
 		list-style-type:none;
-		display: inline-block;
+		display:inline-block;
 }
 
 .social{
 		width: 20px;
 		height: 20px;
 }
+
+#footer {
+	width:100%;
+	/*background:url(footer.png) repeat-x;
+	/*overflow:hidden; /* ref. above */
+  }
