@@ -11,7 +11,7 @@ This project was created in order to build a personal portfolio website.
 
 
 ## Acknowledgements
-This project was based on [this tutorial](https://www.youtube.com/watch?v=pLN-OnXjOJg/).
+This project was based on [this YouTube tutorial](https://www.youtube.com/watch?v=pLN-OnXjOJg/).
 
 
 ## Contact
