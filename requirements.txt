@@ -1,22 +1,50 @@
-argon2-cffi==16.3.0 
-boto3==1.9.96
-botocore==1.12.96
+argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
+argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644569876605/work
+asgiref @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_cchykh5sgr/croots/recipe/asgiref_1661287542702/work
+boto3==1.26.32
+botocore==1.29.32
+brotlipy==0.7.0
 certifi==2018.10.15
+cffi @ file:///C:/b/abs_49n3v2hyhr/croot/cffi_1670423218144/work
 chardet==3.0.4
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.3
+colorama @ file:///C:/Windows/TEMP/abs_9439aeb1-0254-449a-96f7-33ab5eb17fc8apleb4yn/croots/recipe/colorama_1657009099097/work
+conda==22.11.1
+conda-package-handling @ file:///C:/b/abs_44a2d5ajjt/croot/conda-package-handling_1666940385350/work
+cryptography @ file:///C:/b/abs_36x9ifdcl4/croot/cryptography_1665612655344/work
 dj-database-url==0.5.0
-Django
+Django==4.1.4
 django-crispy-forms==1.7.2
 django-heroku==0.3.1
-django-storages==1.7.1
+django-storages==1.13.1
 docutils==0.14
-gunicorn==19.9.0
+flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
+gunicorn==20.1.0
 idna==2.7
 jmespath==0.9.3
-Pillow==5.2.0
+menuinst @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_455sf5o0ct/croots/recipe/menuinst_1661805970842/work
+Pillow==9.3.0
+pluggy @ file:///C:/ci/pluggy_1648042746254/work
+psycopg2==2.9.5
+pur==7.0.0
+pycosat @ file:///C:/b/abs_4b1rrw8pn9/croot/pycosat_1666807711599/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
 python-dateutil==2.8.0
 pytz==2018.5
 requests==2.19.1
-s3transfer==0.2.0
+ruamel.yaml @ file:///C:/b/abs_30ee5qbthd/croot/ruamel.yaml_1666304562000/work
+ruamel.yaml.clib @ file:///C:/b/abs_aarblxbilo/croot/ruamel.yaml.clib_1666302270884/work
+s3transfer==0.6.0
 six==1.12.0
+sqlparse @ file:///C:/b/abs_83jn6owfpc/croot/sqlparse_1668793499314/work
+toolz @ file:///C:/b/abs_cfvk6rc40d/croot/toolz_1667464080130/work
+tqdm @ file:///C:/b/abs_0axbz66qik/croots/recipe/tqdm_1664392691071/work
+typing_extensions @ file:///C:/b/abs_89eui86zuq/croot/typing_extensions_1669923792806/work
+tzdata @ file:///tmp/build/80754af9/python-tzdata_1611693927741/work
 urllib3==1.23
 whitenoise==4.1.2
+win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
+wincertstore==0.2
